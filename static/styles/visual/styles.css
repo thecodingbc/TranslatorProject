@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+*{
+  box-sizing: border-box;
+  font-family: 'Calibri', cursive;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: #db9823;
+}
+
+.container{
+    max-width: 8000px;
+    width: 100%;
+    padding: 30px;
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.01);
+  }
+.wrapper{
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+
+#imageInput {
+    width: 100%;
+    /* Additional CSS properties for styling the button */
+}
+
+#imageInput::file-selector-button {
+    width: 30%;
+    padding: 10px;
+    outline: none;
+    border: blueviolet;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left:20px;
+    font-size: 23px;
+    border-radius: 5px;
+    background: #eb3d3d;
+}
+
+#imageInput + label {
+    font-size: 30px; /* Set the font size for the text */
+    color: #333;
+}
+
+#imageContainer {
+    height: 200px;
+    width: 100%;
+    border: none;
+    outline: none;
+    resize: none;
+    background: none;
+    font-size: 18px;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+#imageContainer img {
+    max-height: 100%; /* Set the maximum height of the image to fill the container */
+    width: auto; /* Maintain the aspect ratio of the image */
+    display: block; /* Ensure proper spacing and alignment */
+    margin: 0 auto; /* Center the image horizontally within the container */
+  }
+
+.placeholder-text {
+    color: #307db8;
+}
+
+.process {
+    display: flex;
+    width: 100%;
+    color: #adadad;
+    font-size: 30px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    justify-content: center;
+    align-items: baseline;
+    justify-content: space-around;
+}
+
+.process button{
+    width: 80%;
+    font-size:30px;
+    padding: 10px;
+    outline: none;
+    border: blueviolet;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 20px;
+    margin
+    font-size: 23px;
+    border-radius: 5px;
+    background: #eb3d3d;
+}
+
+.process i{
+    width: 60px;
+    color: #adadad;
+    font-size: 30px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    justify-content: center;
+  }
+
+#resultContainer {
+    height: 500px;
+    width: 100%;
+    border: none;
+    outline: none;
+    resize: none;
+    background: none;
+    font-size: 18px;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+
