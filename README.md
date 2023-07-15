@@ -10,13 +10,7 @@ SMALL DISCLAIMER: Translations might take sometime to load if the sentence to be
 
 
 
-VISUAL Translation
-Imagine traveling to exotic destinations and confidently navigating through bustling markets, reading signs, menus, and important documents
-without any confusion. Visual Translator empowers you to break through language barriers and truly immerse yourself in different cultures. Just
-upload the graphic you want to translate, and within seconds, Visual Translator will provide you with an satisfying translation. Whether you're
-exploring a foreign city, attending international conferences, or simply trying to understand a book written in another language, Visual 
-Translator will be your trusty companion.
-SMALL DISCLAIMER: This visual translator might not be 100% accurate
+VISUAL TRANSLATION IS UNDER DEVELOPMENT! PLEASE AWAIT FOR RELEASE :)
 
 
 
